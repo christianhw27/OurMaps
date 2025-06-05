@@ -23,3 +23,13 @@ Simulasi interaktif graf berbobot yang menampilkan jaringan kota-kota di Jawa Ti
 - itertools (untuk permutasi TSP)
 
 ---
+
+## 👥 Kelompok 2 – Kelas 2024I
+
+Proyek ini dikembangkan sebagai bagian dari pembelajaran algoritma dan struktur data, dengan fokus pada penerapan konsep graf berbobot dalam konteks dunia nyata.  
+Semoga proyek ini bisa menjadi referensi dan bahan eksplorasi yang bermanfaat bagi semua.
+
+## 📄 Lisensi
+
+Proyek ini dibuat untuk keperluan edukasi dan dapat digunakan secara bebas dengan menyebutkan atribusi kepada pengembang.
+
